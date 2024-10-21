@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" /><br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300§ion=header&text=Welcome!😊&desc=This%20is%20Sumin%20playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
