@@ -6,10 +6,7 @@
 
 
 ### 🚀Projects
-- [Security Monitoring Log System](#): Built a comprehensive network traffic analysis system with ELK Stack.
-- [Electronic Financial Vulnerability Assessment](#): Performed penetration tests to enhance e-finance security.
+- [Security Monitoring Log System](#): Built a comprehensive network traffic analysis system using **Suricata** and **ELK Stack** for real-time threat detection and visualization.
+- [Electronic Financial Vulnerability Assessment](#): Conducted vulnerability assessments and penetration testing to identify and mitigate security risks in electronic financial systems.
+- [CCTV Context JSON Data Export](#): Developed a RESTful API server using Spring Boot to export JSON data for CCTV contexts.
 
-### Contact
-- 📧 Email: hwanhwan402@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](#)
-- 🌐 Blog: [https://jun2-jun.tistory.com/](#)
